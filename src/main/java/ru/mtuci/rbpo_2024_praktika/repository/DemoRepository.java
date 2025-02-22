@@ -8,4 +8,4 @@ import ru.mtuci.rbpo_2024_praktika.model.Demo;
 public interface DemoRepository extends JpaRepository<Demo, Long> {
     Demo findByName(String name);
 }
-testtest
+testtesttttt
